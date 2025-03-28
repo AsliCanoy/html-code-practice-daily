@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    
+</head>
+<body>
+   
+    
+
+    
+   <header>
+
+        <h1><strong>Profile-Resume </strong></h1>
+        
+    
+    <div class="parent">
+        <img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t39.30808-6/475153499_1308829673491297_6357466761851747358_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG0GRP00x19Up4REaz2S6H58yvURShv5ffzK9RFKG_l98dl7IDigBOIlMRampRrBXlXUxAEs0Fg4u1lVTdIlZ09&_nc_ohc=MGG0Lm3T-00Q7kNvgEbHJOt&_nc_oc=Adlm7IaoftcG8c4eD8U4LJSkWlzM-L5bAG2-UE6rif-Eqy-gAMkn8BSWwVt03xdlDb4&_nc_zt=23&_nc_ht=scontent.fceb8-1.fna&_nc_gid=SGnNiW90IAt4Vda3rekKwQ&oh=00_AYHM0FoXoLrJhxzMFV-eXsI_6n9du6lUpWxeT3qAT5FDEg&oe=67E4A77C" alt="">
+    </div>
+   </header>
+    <section class="container1">
+        <div class="box1">
+          <h2>Canoy, Alfred Asley R.</h2>
+          <p><strong>Age:</strong> 21 Years old. </p>
+          <p><strong>Birth date:</strong> July 18 2003 </p>
+          <p><strong>Place of birth:</strong> Misamis Oriental, Cagayan De Oro. </p>
+          <p><strong>Perm Address:</strong> Prk. Sipaway, San Carlos Tukuran Zamboanga Del Sur. </p>
+            <h2>contact</h2>
+          <p><strong>☎️Cellular no:</strong> 09910537155</p>  
+          <p><strong>📱parent's number:</strong> 09773701574 </p>
+            
+
+        </div>
+        <div class="box2">
+            <h2>About Me</h2>
+            <p>Hi, its a pleasure for you to visit my website let me introduce my self
+            Since you already know my name i'll introduce my nickname instead, you can call me <em>aj,asli,alpe.</em>
+            Im a BSIS-ACT student who currently studying at Zamboanga Del Sur Provincial Government College. (ZDS-PGC) Im a first year college student. </p>
+        </div>
+       
+
+      </section>
+
+      <section class="container2">
+        <div class="box3">
+            <h2>Educational Background</h2>
+            <p><strong>Primary:</strong> Tukuran Sped Center  </p>
+            <p><strong>Secondary:</strong> Tukuran Technical Vocational High School</p>
+            <p><strong>Tertiary:</strong> Zamboanga Del Sur Provincial Government College.</p>
+        </div>
+        <div class="box4">
+            <h2>Work experience</h2>
+            <p><strong>Shell gasoline station:</strong> Pump boy</p>
+            <p><strong>Shandys bakeshop:</strong> Baker's Assistant </p>
+            <p><strong>B2D-Brunch2Dinner</strong>Service Crew-Cashier</p>
+            
+        </div>
+      </section>
+
+
+
+
+
+
+
+
+
+      <footer>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/johnrebaja.canoy">🌐 facebook<i class="fab fa-facebook"></i></a>
+            <a href="https://mail.google.com/mail/u/1/#inbox">Ⓜ️gmail<i class="fab fa-gmail"></i></a>
+          </div>
+
+      </footer>
+
+
+
+
+</body></html>
